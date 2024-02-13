@@ -43,8 +43,11 @@ Perustamisen jälkeen minulla oli pilvipalvelu, jossa oli vahva salasana ja jonk
 
 Aloitin yrityksen GitHUb Educationin vaihtoehdolla Name.comin tarjousta ilmaisesta palvelusta.
 
-Sivu reagoi hyvin GitHubin tunnuksilla kirjautumiseen ja prosessi itsessään oli kevyt.
-Ongelmia aiheuttaa käyttäjäliittymä.
+Kyseisen palvelun onnistuneen käyttöönoton kanssa oli isoja ongelmia. Yritetään jotain toista vaihtoehtoa.
+
+Kokeillaan vaihtoehtoa Namecheap.
+
+
 
 ### Debian asetuksien muokkaaminen ja toteuttaminen
 
