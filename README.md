@@ -18,3 +18,9 @@ d) Susanna lähestyi pilpipalvelimensa päivittämistä saamiensa ohjeiden mukai
   - Tekstissä olleet komennot: $ sudo apt-get update, sudo apt-get upgrade, sudo apt-get dist-upgrade, sudo less /var/log/auth.log | grep log, sudo less /var/log/auth.log | grep 10540
 
 ### Oman virtuaalipalvelimen vuokraaminen tai ainakin sen yrittäminen
+
+Aloitin menemällä GitHub Educationin ilmaiseksi tarjottavien palveluiden sivuille (https://education.github.com/pack/offers#namecom).
+
+Täältä suuntasin DigitalOceaniin, sillä GitHubin kautta minulle piti olla mahdollisuus 200$ alkupanokselle.
+
+DigitalOceanin perustamisessa oli sen alkuperäisen GitHub linkin kautta ongelmia, se onnistui vasta kun tajusin kirjautua palveluun suoraan DigitalOceanin pääsivun sisäänkirjautumisen kautta.
