@@ -47,6 +47,11 @@ Kyseisen palvelun onnistuneen käyttöönoton kanssa oli isoja ongelmia. Yritet�
 
 Kokeillaan vaihtoehtoa Namecheap.
 
+Namecheap oletuksellisen ongelmatilan jälkeen perusti tunnukseni onnistuneesti.
+
+Tämän jälkeen etenin Domain listiin ja sieltä Advanced DNS-valikkoon. Advanced DNS:ssä perustin uudet DNS:st, jotka pohjautuvat DigitalOceanista saamaani IP-polkuun
+
+![digitalocean dns](https://github.com/Andtonyk/h0/assets/149326156/856edfaa-9220-4fd2-9dc1-9b96ef63d0d3)
 
 
 ### Debian asetuksien muokkaaminen ja toteuttaminen
