@@ -30,3 +30,14 @@ Perustin DigitalOceanin hyvin samoilla tiedoilla, kuin Susanna Lehto omassa esim
 Tein vahvat salasanat, en ottanut lisäpalveluita.
 
 Perustamisen jälkeen minulla oli pilvipalvelu, jossa oli vahva salasana ja jonka kontaktipalvelimet sijaitsivat Amsterdamissa.
+
+### Domain, valitsen sinut... tai ainakin yritän
+
+Aloitin yrityksen GitHUb Educationin vaihtoehdolla Name.comin tarjousta ilmaisesta palvelusta.
+
+Sivu reagoi hyvin GitHubin tunnuksilla kirjautumiseen ja prosessi itsessään oli kevyt.
+Ongelmia aiheuttaa käyttäjäliittymä.
+
+### Debian asetuksien muokkaaminen ja toteuttaminen
+
+
