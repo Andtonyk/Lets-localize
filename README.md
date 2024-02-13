@@ -23,9 +23,13 @@ Aloitin menemällä GitHub Educationin ilmaiseksi tarjottavien palveluiden sivui
 
 Täältä suuntasin DigitalOceaniin, sillä GitHubin kautta minulle piti olla mahdollisuus 200$ alkupanokselle.
 
-DigitalOceanin perustamisessa oli sen alkuperäisen GitHub linkin kautta ongelmia, se onnistui vasta kun tajusin kirjautua palveluun suoraan DigitalOceanin pääsivun sisäänkirjautumisen kautta.
+DigitalOceanin perustamisessa oli sen alkuperäisen GitHub linkin kautta ongelmia. 
 
 ![DigitalOcean tilin hankkimisessa ongelmia](https://github.com/Andtonyk/h0/assets/149326156/08f2f399-fc85-4c82-9bf6-cd09b6789109)
+
+Se onnistui vasta kun tajusin kirjautua palveluun suoraan DigitalOceanin pääsivun sisäänkirjautumisen kautta.
+
+![DigitalOcean tilin onnistunut sisaankirjautuminen](https://github.com/Andtonyk/h0/assets/149326156/c7069b3b-abd3-4376-b754-300a6be56d57)
 
 Perustin DigitalOceanin hyvin samoilla tiedoilla, kuin Susanna Lehto omassa esimerkissään.
 
