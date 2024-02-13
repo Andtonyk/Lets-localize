@@ -1,5 +1,6 @@
 # Lets-localize
-h4 - A site, a site. My kingdom for a working local site! 
+## h4 - A site, a site. My kingdom for a working local site! 
+### Susanna Lehdon teksti ja sen läpikäyminen
 
 a) Tekstissään Susanna Lehto käy yksityiskohtaisesti läpi oman pilvipalvelimensa vuokraamisen ja sen perustamisen. Dokumentaatio on yksityiskohtaista ja hyvää asian tiimoilta.
 
@@ -16,3 +17,4 @@ c) Susanna lisäsi onnistuneesti käyttäjätunnuksia, joilla hän tulisi hallit
 d) Susanna lähestyi pilpipalvelimensa päivittämistä saamiensa ohjeiden mukaisesti ja ottaen huomioon että hänen palvelimelleen oltiin yritetty murtautua, oli päivitys erittäin hyvä toteuttaa.
   - Tekstissä olleet komennot: $ sudo apt-get update, sudo apt-get upgrade, sudo apt-get dist-upgrade, sudo less /var/log/auth.log | grep log, sudo less /var/log/auth.log | grep 10540
 
+### Oman virtuaalipalvelimen vuokraaminen tai ainakin sen yrittäminen
