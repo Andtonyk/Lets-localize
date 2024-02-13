@@ -25,6 +25,8 @@ Täältä suuntasin DigitalOceaniin, sillä GitHubin kautta minulle piti olla ma
 
 DigitalOceanin perustamisessa oli sen alkuperäisen GitHub linkin kautta ongelmia, se onnistui vasta kun tajusin kirjautua palveluun suoraan DigitalOceanin pääsivun sisäänkirjautumisen kautta.
 
+![DigitalOcean tilin hankkimisessa ongelmia](https://github.com/Andtonyk/h0/assets/149326156/08f2f399-fc85-4c82-9bf6-cd09b6789109)
+
 Perustin DigitalOceanin hyvin samoilla tiedoilla, kuin Susanna Lehto omassa esimerkissään.
 
 Tein vahvat salasanat, en ottanut lisäpalveluita.
