@@ -49,6 +49,9 @@ Kokeillaan vaihtoehtoa Namecheap.
 
 Namecheap oletuksellisen ongelmatilan jälkeen perusti tunnukseni onnistuneesti.
 
+Valitsin paketin ja sen suojaus metodin.
+
+
 Sain itselleni domainin andreask.me
 
 Tämän jälkeen etenin Domain listiin ja sieltä Advanced DNS-valikkoon. Advanced DNS:ssä perustin uudet DNS:st, jotka pohjautuvat DigitalOceanista saamaani IP-polkuun
