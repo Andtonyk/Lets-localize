@@ -21,6 +21,8 @@ d) Susanna lähestyi pilpipalvelimensa päivittämistä saamiensa ohjeiden mukai
 
 Aloitin menemällä GitHub Educationin ilmaiseksi tarjottavien palveluiden sivuille (https://education.github.com/pack/offers#namecom).
 
+![GitHub Education](https://github.com/Andtonyk/h0/assets/149326156/c5e6b6b6-cf90-479c-99ea-0584b43fbaf2)
+
 Täältä suuntasin DigitalOceaniin, sillä GitHubin kautta minulle piti olla mahdollisuus 200$ alkupanokselle.
 
 DigitalOceanin perustamisessa oli sen alkuperäisen GitHub linkin kautta ongelmia. 
