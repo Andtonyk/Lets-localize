@@ -24,3 +24,9 @@ Aloitin menemällä GitHub Educationin ilmaiseksi tarjottavien palveluiden sivui
 Täältä suuntasin DigitalOceaniin, sillä GitHubin kautta minulle piti olla mahdollisuus 200$ alkupanokselle.
 
 DigitalOceanin perustamisessa oli sen alkuperäisen GitHub linkin kautta ongelmia, se onnistui vasta kun tajusin kirjautua palveluun suoraan DigitalOceanin pääsivun sisäänkirjautumisen kautta.
+
+Perustin DigitalOceanin hyvin samoilla tiedoilla, kuin Susanna Lehto omassa esimerkissään.
+
+Tein vahvat salasanat, en ottanut lisäpalveluita.
+
+Perustamisen jälkeen minulla oli pilvipalvelu, jossa oli vahva salasana ja jonka kontaktipalvelimet sijaitsivat Amsterdamissa.
