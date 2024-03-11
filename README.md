@@ -61,4 +61,36 @@ Tämän jälkeen etenin Domain listiin ja sieltä Advanced DNS-valikkoon. Advanc
 
 ### Debian asetuksien muokkaaminen ja toteuttaminen
 
+Aloitin avaamalla aiemmin muodostaneeni VM:n ja siellä terminalin.
 
+Kirjauiduin normaalistakäyttäjätunnuksestani domainista vastaaville tunnuksille.
+
+![ssh root sisaankirjautuminen](https://github.com/Andtonyk/h1---Debian/assets/149326156/97ed3d29-724f-44d7-b5f0-8099a8cbee3e)
+
+Kirjautumisen jälkeen asetin päivitykset domainista vastaavalle palvelimelle.
+
+![kayttajan tilin paivitykset toteutettu](https://github.com/Andtonyk/h1---Debian/assets/149326156/fa1424c7-b8ba-4e2a-9a46-062515c74206)
+
+Päivityksien jälkeen suljin rootin.
+
+![root lukittu](https://github.com/Andtonyk/h1---Debian/assets/149326156/cd353aca-d9d9-4882-94d5-839cd4252f9c)
+
+Muodostin tämän jälkeen uuden käyttäjän...
+
+![kayttajan lisays](https://github.com/Andtonyk/h1---Debian/assets/149326156/20fff288-3e36-4bab-b5c2-ce3861c9c376)
+
+...Sekä päivitin käyttäjää koskevat asetukset.
+
+![kayttajan tilin paivitykset toteutettu](https://github.com/Andtonyk/h1---Debian/assets/149326156/2e18c7fe-8d04-4b9c-9554-c7ecc21c3076)
+
+Muodostin tämän jälkeen portillisia poikkeuksia palomuuriin.
+
+![portti 80 aktiivisena](https://github.com/Andtonyk/h1---Debian/assets/149326156/7500c423-f1f1-4f7e-844c-7e2be213cec5)
+
+![portti 443 on auki](https://github.com/Andtonyk/h1---Debian/assets/149326156/c19bfad7-f5e8-4d6f-8b88-5a86c7ac4b35)
+
+Sivut toimivat! Niin DNS-haulla kuin suoraan IP-osooitteella haettaessa.
+
+![andreask me saa myos debian nakyman](https://github.com/Andtonyk/h1---Debian/assets/149326156/a0a39665-4626-4b9f-8648-0a69328fe81e)
+
+![Apache2 Debian sivu nakyy ipssa 157 245 72 185](https://github.com/Andtonyk/h1---Debian/assets/149326156/d5cbb31d-6cad-47e9-bdcd-1dfc07a1517f)
