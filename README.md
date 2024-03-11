@@ -89,6 +89,10 @@ Muodostin tämän jälkeen portillisia poikkeuksia palomuuriin.
 
 ![portti 443 on auki](https://github.com/Andtonyk/h1---Debian/assets/149326156/c19bfad7-f5e8-4d6f-8b88-5a86c7ac4b35)
 
+Testasin samalla pyös pingauksella sivujen tilan, ennen kuin uskaltauduin selain näkymään.
+
+![ping testattu andreask me ja toimii](https://github.com/Andtonyk/h1---Debian/assets/149326156/d9a7e8a5-5d00-41cb-a19a-2be255232ee6)
+
 Sivut toimivat! Niin DNS-haulla kuin suoraan IP-osooitteella haettaessa.
 
 ![andreask me saa myos debian nakyman](https://github.com/Andtonyk/h1---Debian/assets/149326156/a0a39665-4626-4b9f-8648-0a69328fe81e)
